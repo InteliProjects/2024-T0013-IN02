@@ -15,16 +15,16 @@ Construir  uma aplicação web de treinamento para cadastro e  disponibilizaçã
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - Dellvelopers
-  - Link do repositório: https://github.com/InteliProjects/2024-T0013-IN02-G01
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T13-IN02-G01
 
 - Grupo 2 - Delles
-  - Link do repositório: https://github.com/InteliProjects/2024-T0013-IN02-G02
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T13-IN02-G02
 
 - Grupo 3 - ID
-  - Link do repositório: https://github.com/InteliProjects/2024-T0013-IN02-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T13-IN02-G03
 
 - Grupo 4 - Dellta
-  - Link do repositório: https://github.com/InteliProjects/2024-T0013-IN02-G04
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T13-IN02-G04
 
 - Grupo 5 - ILedTech
-  - Link do repositório: https://github.com/InteliProjects/2024-T0013-IN02-G05
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T13-IN02-G05
